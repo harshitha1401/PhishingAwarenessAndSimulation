@@ -570,9 +570,9 @@ During my internship period, I participated in multiple community-oriented activ
 <!-- change url below with your image urls (inside  src='')-->
 
 <div align="center">
-  <img src="https://drive.google.com/file/d/1ZfUodfW60fgnwYs5aZTH69Uo_kmiZNgL/view?usp=drivesdk" alt="Community Service Photo 1" width="30%">
-  <img src="https://drive.google.com/file/d/1WPXbrB6nNFn1aAbQcSHvL3dNyLm3_oR9/view?usp=drivesdk" alt="Community Service Photo 2" width="30%">
-  <img src="https://drive.google.com/file/d/1NpdO5QFI9GFcWbEkP9q0qQoTdXAGImb7/view" alt="Community Service Photo 3" width="30%">
+    <img src="./IMG-20260828-WA0008(1).jpg" alt="Community Service Photo 1" width="30%">
+    <img src="./IMG-20260828-WA0019(1).jpg" alt="Community Service Photo 2" width="30%">
+    <img src="./IMG-20260828-WA0020(1).jpg" alt="Community Service Photo 3" width="30%">
 </div>
 
 ## **Certificate**
