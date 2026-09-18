@@ -572,7 +572,7 @@ During my internship period, I participated in multiple community-oriented activ
 <div align="center">
   <img src="https://drive.google.com/file/d/1ZfUodfW60fgnwYs5aZTH69Uo_kmiZNgL/view?usp=drivesdk" alt="Community Service Photo 1" width="30%">
   <img src="https://drive.google.com/file/d/1WPXbrB6nNFn1aAbQcSHvL3dNyLm3_oR9/view?usp=drivesdk" alt="Community Service Photo 2" width="30%">
-  <img src="https://drive.google.com/file/d/1NpdO5QFI9GFcWbEkP9q0qQoTdXAGImb7/view?usp=drivesdk" alt="Community Service Photo 3" width="30%">
+  <img src="https://drive.google.com/file/d/1NpdO5QFI9GFcWbEkP9q0qQoTdXAGImb7/view" alt="Community Service Photo 3" width="30%">
 </div>
 
 ## **Certificate**
